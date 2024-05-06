@@ -1,4 +1,4 @@
 # odin-recipes
-The Odin Project course practice
-This shall be the practice space for HTML to make recipes
+The Odin Project course practice <br />
+This shall be the practice space for HTML to make recipes <br />
 webpages
